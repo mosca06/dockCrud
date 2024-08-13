@@ -3,7 +3,7 @@
 A simples CRUD to gain experience in Dock 
 ## Overview
 
-This project is a simple CRUD (Create, Read, Update, Delete) application for managing "person" entities. The application is built with Ruby on Rails and is containerized using Docker. This setup is designed to help you understand Docker and containerization concepts.
+This project is a straightforward CRUD (Create, Read, Update, Delete) application that also provides APIs for managing "person" entities. Built with Ruby on Rails and containerized using Docker, it serves as a practical example to help you grasp Docker and containerization concepts.
 
 ## Prerequisites
 

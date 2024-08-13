@@ -36,4 +36,8 @@ Usage
 You can use the application to create, read, update, and delete "person" records.
 The Rails server runs inside a Docker container and is accessible via port 3000 on your localhost.
 
-
+## Testing the API
+You can test the API endpoints using tools like Postman, cURL, or HTTPie. Here are some example requests:
+```bash
+curl http://localhost:3000/api/v1/people
+```

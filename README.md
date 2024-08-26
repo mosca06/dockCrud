@@ -1,6 +1,5 @@
 # dockCrud
 
-A simples CRUD to gain experience in Dock 
 ## Overview
 
 This project is a straightforward CRUD (Create, Read, Update, Delete) application that also provides APIs for managing "person" entities. Built with Ruby on Rails and containerized using Docker, it serves as a practical example to help you grasp Docker and containerization concepts.
